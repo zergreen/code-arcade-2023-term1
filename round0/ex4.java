@@ -1,5 +1,5 @@
 
-// package round0;
+package round0;
 import java.util.Scanner;
 
 public class ex4 {
